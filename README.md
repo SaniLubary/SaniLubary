@@ -1,10 +1,14 @@
-### This me :bowtie:
+<!-- ### This me :bowtie:
 ![its a me picture](me.png)
 
 ### Please, watch shrek 😞✌
 ![entire shrek movie in a gif](shrek.png)
 
-![fr](fr.png)
+![fr](fr.png) -->
+### (Readme in construction) 
+
+...
+
 - 🔭 I’m currently working on an online Tateti
 - 🌱 I’m currently learning [This](https://roadmap.sh/backend) path
 - 👯 I’m looking to collaborate on ... (?)
