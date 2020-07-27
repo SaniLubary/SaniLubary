@@ -1,4 +1,4 @@
-![](imagen.png)
+![](https://raw.githubusercontent.com/SaniLubary/SaniLubary/master/imagen.png)
 
 <h4 align="center"><b>(Readme in construction)</b></h4> 
 
