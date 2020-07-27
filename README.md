@@ -1,19 +1,15 @@
 ### This me :bowtie:
-![its a me picture](/me.jpg)
+![its a me picture](me.png)
 
 ### Please, watch shrek 😞✌
+![entire shrek movie in a gif](shrek.png)
 
-<!--
-**SaniLubary/SaniLubary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![fr](fr.png)
+- 🔭 I’m currently working on an online Tateti
+- 🌱 I’m currently learning [This](https://roadmap.sh/backend) path
+- 👯 I’m looking to collaborate on ... (?)
+- 🤔 I’m looking for help with life
+- 💬 Ask me about You
+- 📫 How to reach me: Stretch your hand bro
+- 😄 Pronouns: Yes
+- ⚡ Fun fact: Even tho my name is Santi, people still calls me Santi 
