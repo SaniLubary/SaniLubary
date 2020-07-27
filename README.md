@@ -1,10 +1,7 @@
-### Hi there 👋
-
 ### This me :bowtie:
 ![its a me picture](/me.jpg)
 
 ### Please, watch shrek 😞✌
-![entire shrek movie](/shrek.gif)
 
 <!--
 **SaniLubary/SaniLubary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
