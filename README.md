@@ -1,4 +1,5 @@
-<h4 align="center"><b>(Readme in construction)</b></h4> 
+<h4 align="center"><b>(Readme in construction)</b></h4>
+<h6 align="center">(forever)</h6>
 
 - 🔭 I’m currently working on an online Tateti
 - 🌱 I’m currently learning [This](https://roadmap.sh/backend) path
@@ -11,9 +12,9 @@
 
 
 ```JavaScript
- ✅: Know                  ❔: Poor Knowladge                 🌱 Backend Path 🌱
- ❌: Don't know                                                       |
- ❓: Know's partially                                                   |
+ ✅: Know                  ❔: I think I kinda know but I     🌱 Backend Path 🌱
+ ❌: Don't know          wouldn't mind to review it? maybe?          |
+ ❓: Know's partially       💱: In process                              |
                                                                           | 
     -------------------------------                                     |                                     --------------------------------
 ✅|    How does internet work?     | --|                              |                             |------ |      DNS and how it works?      | ✅ ❔
@@ -29,23 +30,23 @@
    --------------------------------                       ❌ (ಥ _ ಥ) |                                  -|-- | JavaScript | ✅
 ✅|       Terminal Usage           | -|                  ------------------------------                        --------------------------------
    --------------------------------     \--|------|------|   OS and General Knowladge   |--------------------- |       Memory Management        |❌
-✅|     How OSs work in General    | ----/     /-     /  ------------------------------                        --------------------------------
-   --------------------------------          -/      /-               |              
-❌|      Process Management        | -----|-     -/-                  |
-   --------------------------------      -|    -/-                    |
-❌|    Threads and Concurrency     | --/-    /                        |
-   --------------------------------         -|                           |
-❓|     Basic Terminal Commands      | ----|-                               |
-  | grep, awk, sed, lsof, curl,wget  |                                        |
-  |tail, head, less, find, ssh, kill |                                       |
-   --------------------------------                                       |
-                                                                        |  
-                                             ---------                |                 --------
-                                            |   Rust   |-              |            /--|   Go    |      
-                                             ---------    \             |         -/    --------     
-                                                        -----------------------------------       /----|-
-                                                       |          Learn a lenguage         |----/
-                                                       |  Make sure to learn it's quirks.  |
+✅|     How OSs work in General    | ----/     /-     /  ------------------------------     \-                 --------------------------------
+   --------------------------------          -/      /-               |                       -|-              |  Interprocess Communicaction   |❌
+❌|      Process Management        | -----|-     -/-                  |                         |\---          --------------------------------
+   --------------------------------      -|    -/-                    |                           -            |        I/O Management          |❌
+❌|    Threads and Concurrency     | --/-    /                        |                                        --------------------------------
+   --------------------------------         -|                           |                                     |         POSIX Basics           |❌
+❓|     Basic Terminal Commands      | ----|-                               |                                  |  stdin, stdout, stderr, pipes  |
+  | grep, awk, sed, lsof, curl,wget  |                                        |                                 --------------------------------
+  |tail, head, less, find, ssh, kill |                                       |                                 |   Basic Networking Concepts    |❌
+   --------------------------------                                       |                                     --------------------------------
+                  -----------------                                     |                                          -----------------
+                 |      Java        | -\-    ---------                |                 --------        /-------- |   JavaScript    |💱
+                  -----------------     \   |   Rust   |-              |            /--|   Go    |    -|-          -----------------
+                 |       C#         | ---\   ---------    \             |         -/    --------    -/    \------ |     Python      |
+                  -----------------       \             -----------------------------------       / ----\          -----------------
+                 |       PHP        | ------\----------|          Learn a lenguage         |----/        -|------ |      Ruby       |
+                  -----------------                    |  Make sure to learn it's quirks.  |                       -----------------
                                                         -----------------------------------
 
 
