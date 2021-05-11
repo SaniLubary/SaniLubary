@@ -1,9 +1,10 @@
 ### Hey
    
-- 🔭 I’m currently working on an online Tateti (When I first wrote this, I instantly stopped working on that, now I want to do it again, so yeah now its true)
-- 🌱 I wanted to learn [this](https://roadmap.sh/backend) path road, but life
+- 🔭 I’m currently working on an online Tateti to practice a bunch of nice stuff.
 - 📫 How to reach me: Stretch your hand bro
 - ⚡ Fun fact: Even tho my name is Santi, people still calls me Santi 
+- 👻 My Activity overview is full of my current work´s private repos commits, that's why it looks full and cool
+
 <pre>
 
            
