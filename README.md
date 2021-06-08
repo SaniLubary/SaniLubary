@@ -1,9 +1,9 @@
 ### Hey
    
-- 🔭 I’m currently working on an online Tateti to practice a bunch of nice stuff.
+- 🔭 I’m currently working on a typing game.
 - 📫 How to reach me: Stretch your hand bro
 - ⚡ Fun fact: Even tho my name is Santi, people still calls me Santi 
-- 👻 My Activity overview is full of my current work´s private repos commits, that's why it looks full and cool
+- 👻 My Activity overview is full of my current workplace private repos commits, that's mostly why it looks full and cool
 
 <pre>
 
