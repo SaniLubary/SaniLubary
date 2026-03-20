@@ -1,7 +1,13 @@
-### hEy~
+## Hi, I'm Santi 🐱
 
-- 🔭 Currently working on gaining your heart
-- 📫 How to reach me: Stretch your hand bro
-- ⚡ Fun fact: You're cute af
+Senior Web Developer with 5+ years of experience building scalable web applications for international clients.
 
-<img src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" width="100">  ![Sani's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaniLubary&theme=omni&show_icons=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+### 🚀 What I do
+- Build high-performance frontends with React & TypeScript
+- Design scalable architectures and clean UI systems
+- Improve accessibility, performance, and developer experience
+- Work across the full stack when needed (Node.js, APIs, infra)
+
+### 🧠 Currently
+- Working with US-based teams on production applications
+- Exploring better ways to handle visual testing and UI consistency
