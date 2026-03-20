@@ -1,6 +1,6 @@
 ### hEy~
 
-- 🔭 I’m currently working on a collaboration app for 3d models
+- 🔭 Currently working on gaining your heart
 - 📫 How to reach me: Stretch your hand bro
 - ⚡ Fun fact: You're cute af
 
